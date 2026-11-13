@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "slug": "isi-transfer-yagi-nedir-nasil-calisir",
+    "title": "Isı Transfer Yağı Nedir? Kapalı Devre Isıtma Sistemlerinde Önemi",
+    "date": "10 Kasım 2026",
+    "author": "isitransferyagi.com",
+    "readTime": "4 dk",
+    "image": "/images/banners/hero-artoil.jpg",
+    "category": "Teknik Rehber",
+    "excerpt": "Endüstriyel tesislerde buhar yerine termik ısı transfer yağı kullanmanın avantajları, sistem verimliliği ve termal kararlılık ilkeleri.",
+    "content": [
+      "<p class='lead'>Isı transfer yağı (termik yağ), endüstriyel proseslerde yüksek sıcaklık gerektiren üretim aşamalarında ısının güvenli, homojen ve düşük basınç altında iletilmesini sağlayan özel akışkandır. Buharlı sistemlere kıyasla atmosferik veya çok düşük basınçlarda 300°C'nin üzerindeki sıcaklıklara güvenle ulaşılmasını sağlar.</p>",
+      "<h2>Termik Isı Transfer Yağının Temel Görevleri</h2>",
+      "<p>Endüstriyel bir ısı transfer yağından beklenen temel özellikler yüksek termal kararlılık, yüksek kaynama noktası, düşük buhar basıncı ve yüksek ısı iletkenliğidir. Bu özellikler sayesinde ısıtıcı kazandan kalıba, reaktöre veya kurutma fırınına ısı kesintisiz iletilir.</p>",
+      "<h2>Isı Transfer Yağlarında Kraking ve Oksidasyon Riski</h2>",
+      "<p>Sistemde aşırı yerel ısınma (aşırı film sıcaklığı) meydana geldiğinde yağ molekülleri parçalanabilir (kraking). Kraking sonucu oluşan hafif uçucu bileşenler parlayıcılık riskini artırırken, ağır bileşenler ise boru çeperlerinde koklaşmaya yol açar. Bu nedenle Shell Heat Transfer Oil, Mobiltherm ve Castrol Perfecto gibi yüksek kaliteli baz yağlara sahip ürünlerin tercih edilmesi tesis güvenliği açısından kritiktir.</p>"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "isi-transfer-yaglarinda-omur-nasil-uzatilir",
+    "title": "Isı Transfer Yağınızın Ömrünü Uzatmanın 5 Kritik Yolu",
+    "date": "11 Kasım 2026",
+    "author": "isitransferyagi.com",
+    "readTime": "5 dk",
+    "image": "/images/banners/hero-artoil.jpg",
+    "category": "Bakım & İpuçları",
+    "excerpt": "Termik yağ tesisatlarında koklaşmayı, oksidasyonu ve erken yağ bozulmasını önlemek için uygulanması gereken en etkili bakım adımları.",
+    "content": [
+      "<p class='lead'>Isı transfer yağlarının düzenli ve doğru bakımı, tesis enerji maliyetlerini düşürür ve plansız duruşları engeller. Doğru işletme koşullarında kaliteli bir ısı transfer yağı uzun yıllar sorunsuz hizmet verebilir.</p>",
+      "<h2>1. Genleşme Tankı Sıcaklığını Kontrol Altında Tutun</h2>",
+      "<p>Sıcak yağın atmosferik oksijenle temas etmesi oksidasyona ve çamurlaşmaya neden olur. Genleşme tankındaki yağ sıcaklığı 60°C'nin altında tutulmalı veya tank azot yastıklama ile korunmalıdır.</p>",
+      "<h2>2. İlk Çalıştırmada Kademeli Isıtma Uygulayın</h2>",
+      "<p>Sisteme yeni yağ konulduğunda veya uzun süreli duruşlardan sonra, sistemdeki nemin ve yoğuşmanın buharlaşması için sıcaklık 100-110°C seviyesinde bir süre sabit tutularak deaerasyon (hava ve nem tahliyesi) sağlanmalıdır.</p>",
+      "<h2>3. Sirkülasyon Pompasını Erken Kapatmayın</h2>",
+      "<p>Isıtıcı brülör kapatıldıktan sonra sirkülasyon pompası hemen durdurulmamalıdır. Kazan refrakterindeki artık ısı borulardaki durgun yağı aşırı ısıtıp koklaştırabilir. Sıcaklık 100°C'nin altına düşene kadar sirkülasyon devam etmelidir.</p>"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "siteName": "Isı Transfer Yağı",
+  "siteTitle": "Isı Transfer Yağı Fiyatları & Çeşitleri | Toptan Endüstriyel Yağlar",
+  "metaDescription": "Shell, Mobil, Castrol, Petrol Ofisi ve Artoil ısı transfer yağı çeşitleri. 320°C yüksek termal kararlılığa sahip termik ısı transfer yağlarında toptan fiyat ve aynı gün sevkiyat.",
+  "domain": "https://isitransferyagi.com",
+  "phone": "+90 506 940 1210",
+  "phoneRaw": "+905069401210",
+  "whatsapp": "905069401210",
+  "whatsappMessage": "[isitransferyagi.com] MUSTERI ILETISIM HATTI\n\nMerhaba, isi transfer yaglari hakkinda detayli bilgi ve fiyat teklifi almak istiyorum.",
+  "email": "bilgi@isitransferyagi.com",
+  "address": "Arap Camii Mh. Bakır Sk. No:6/A Beyoğlu/İSTANBUL",
+  "primaryColor": "#ea580c",
+  "brands": [
+    {
+      "id": "all",
+      "name": "Tüm Markalar"
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "badge": "Global Lider",
+      "color": "#eab308"
+    },
+    {
+      "id": "mobil",
+      "name": "Mobil",
+      "badge": "Premium",
+      "color": "#dc2626"
+    },
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "badge": "Yüksek Termal",
+      "color": "#16a34a"
+    },
+    {
+      "id": "artoil",
+      "name": "Artoil",
+      "badge": "En Çok Satan",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "petrol-ofisi",
+      "name": "Petrol Ofisi",
+      "badge": "Yerli Lider",
+      "color": "#dc2626"
+    }
+  ],
+  "viscosities": [
+    "Tümü",
+    "ISO VG 32"
+  ]
+}
