@@ -44,18 +44,18 @@
     "shortDesc": "Shell Heat Transfer Oil S2 - 209 L, kapalı devre dolaylı ısıtma sistemleri için yüksek termal kararlılığa sahip endüstriyel ısı transfer yağıdır."
   },
   {
-    "id": "artoil-subra-isi-transfer-yagi-16-l",
-    "name": "Artoil Subra Isı Transfer Yağı - 16 L",
+    "id": "artoil-subra-isi-transfer-yagi-15-l",
+    "name": "Artoil Subra Isı Transfer Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Subra",
     "viscosity": "ISO VG 32",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Subra Isı Transfer Yağı - 16 L, yüksek sıcaklıkta çalışan kapalı ısıtma sistemlerinde üstün oksidasyon direnci sunan kaliteli ısı transfer yağıdır.",
-    "description": "<p class=\"lead\"><strong>Artoil Subra Isı Transfer Yağı - 16 L</strong>, yüksek sıcaklıklara maruz kalan endüstriyel ısıtma tesisatlarında güvenli ve kesintisiz ısı dağılımı sağlamak üzere yüksek kaliteli parafinik baz yağlardan formüle edilmiş yerli üretim kaliteli bir ısı transfer yağıdır.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Termal Direnç:</strong> Yüksek sıcaklıklarda viskozite kaybına uğramaz, koklaşma ve tortu birikintilerini engeller.</li>\n  <li><strong>Yüksek Isıl İletkenlik:</strong> Isı kaynağından proses noktasına hızlı ve kayıpsız enerji iletimi temin eder.</li>\n  <li><strong>Mükemmel Akışkanlık:</strong> Soğuk ilk çalıştırmalarda akıcı yapısıyla sirkülasyon pompalarını yormaz.</li>\n  <li><strong>Uzun Değişim Ömrü:</strong> Oksidasyona karşı dirençli formülü ile bakım maliyetlerini düşürür.</li>\n</ul>\n\n<h3>Kullanım ve Uygulama Alanları</h3>\n<p>Kapalı devre çalışan endüstriyel kazanlar, kalıp ısıtma cihazları, boya kurutma fırınları ve gıda makineleri ısı transfer ünitelerinde yaygın biçimde kullanılır.</p>\n\n<h3>Performans ve Standartlar</h3>\n<p>DIN 51522 ve ISO 6743/12 sınıflandırmalarına uygundur.</p>",
+    "shortDescription": "Artoil Subra Isı Transfer Yağı - 15 L, yüksek sıcaklıkta çalışan kapalı ısıtma sistemlerinde üstün oksidasyon direnci sunan kaliteli ısı transfer yağıdır.",
+    "description": "<p class=\"lead\"><strong>Artoil Subra Isı Transfer Yağı - 15 L</strong>, yüksek sıcaklıklara maruz kalan endüstriyel ısıtma tesisatlarında güvenli ve kesintisiz ısı dağılımı sağlamak üzere yüksek kaliteli parafinik baz yağlardan formüle edilmiş yerli üretim kaliteli bir ısı transfer yağıdır.</p>\n\n<h3>Öne Çıkan Özellikleri ve Avantajları</h3>\n<ul>\n  <li><strong>Termal Direnç:</strong> Yüksek sıcaklıklarda viskozite kaybına uğramaz, koklaşma ve tortu birikintilerini engeller.</li>\n  <li><strong>Yüksek Isıl İletkenlik:</strong> Isı kaynağından proses noktasına hızlı ve kayıpsız enerji iletimi temin eder.</li>\n  <li><strong>Mükemmel Akışkanlık:</strong> Soğuk ilk çalıştırmalarda akıcı yapısıyla sirkülasyon pompalarını yormaz.</li>\n  <li><strong>Uzun Değişim Ömrü:</strong> Oksidasyona karşı dirençli formülü ile bakım maliyetlerini düşürür.</li>\n</ul>\n\n<h3>Kullanım ve Uygulama Alanları</h3>\n<p>Kapalı devre çalışan endüstriyel kazanlar, kalıp ısıtma cihazları, boya kurutma fırınları ve gıda makineleri ısı transfer ünitelerinde yaygın biçimde kullanılır.</p>\n\n<h3>Performans ve Standartlar</h3>\n<p>DIN 51522 ve ISO 6743/12 sınıflandırmalarına uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -81,7 +81,7 @@
     "image": "/images/products/artoil-subra-isi-transfer-yagi-16-l.png",
     "msdsUrl": "https://wa.me/905069401210?text=%5Bisitransferyagi.com%5D%20Artoil%20Subra%20MSDS%20talebi",
     "tdsUrl": "https://wa.me/905069401210?text=%5Bisitransferyagi.com%5D%20Artoil%20Subra%20TDS%20talebi",
-    "shortDesc": "Artoil Subra Isı Transfer Yağı - 16 L, yüksek sıcaklıkta çalışan kapalı ısıtma sistemlerinde üstün oksidasyon direnci sunan kaliteli ısı transfer yağıdır."
+    "shortDesc": "Artoil Subra Isı Transfer Yağı - 15 L, yüksek sıcaklıkta çalışan kapalı ısıtma sistemlerinde üstün oksidasyon direnci sunan kaliteli ısı transfer yağıdır."
   },
   {
     "id": "castrol-perfecto-ht-5-208-l",
